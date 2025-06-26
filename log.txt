@@ -1,3 +1,4 @@
+158d3e6 Добавил log.txt
 a892b39 Добавил log.txt
 769be30 Добавил log.txt
 787d941 Добавил status.txt
