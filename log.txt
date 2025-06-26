@@ -1,3 +1,5 @@
+787d941 Добавил status.txt
+a7e1af7 Добавил log.txt
 c7f63b3 Добавил status.txt
 19557ab Добавил README.md
 0e914e0 Добавил log.txt
