@@ -1,4 +1,5 @@
-d8f4346 (HEAD -> main) Добавил status.txt
+c7f63b3 Добавил status.txt
+19557ab Добавил README.md
+0e914e0 Добавил log.txt
+d8f4346 Добавил status.txt
 953d18a Добавил README.md
-
-C:\Users\user\Desktop\introduction-1>
